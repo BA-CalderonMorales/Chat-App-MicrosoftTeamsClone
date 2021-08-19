@@ -24,6 +24,10 @@ password: 123123
 I'm going to hold off on allowing capability to login as a master since the site is already deployed. So if you want to see what all a master account can do, you'll need to 
 look at the tutorial and try to get those features down yourself. Here's to life-long learning!
 
+In order to logout, for now at least, you'll need to go into your local storage (once logged in) and clear what is currently in there -> refresh the page, and you'll return back to the sign in page.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
