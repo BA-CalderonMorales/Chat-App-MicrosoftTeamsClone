@@ -12,13 +12,14 @@ https://www.youtube.com/watch?v=jcOKU9f86XE
 I managed to deploy my site using Netlify, so I'm going to be working on there, along with localhost:3000 in order to try and get my site as functional as I possibly can.
 https://brandino-sites.netlify.app/
 
-In order to login to the site, you'll need to enter the following credentials to login as a visitor:
-username: userOne
-password: 123123
+In order to login to the site, you'll need to enter the following credentials to login as a visitor: <br><br>
 
-or 
+username: userOne<br>
+password: 123123 <br><br>
 
-username: userTwo
+or<br><br>
+
+username: userTwo<br>
 password: 123123
 
 I'm going to hold off on allowing capability to login as a master since the site is already deployed. So if you want to see what all a master account can do, you'll need to 
