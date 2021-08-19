@@ -26,6 +26,14 @@ look at the tutorial and try to get those features down yourself. Here's to life
 
 In order to logout, for now at least, you'll need to go into your local storage (once logged in) and clear what is currently in there -> refresh the page, and you'll return back to the sign in page.
 
+# Snippets of page
+![image](https://user-images.githubusercontent.com/62074841/130010903-14607442-722c-43a3-bdff-e44244b5810e.png)
+<br><br>
+![image](https://user-images.githubusercontent.com/62074841/130010962-d2871d93-1603-42ac-b6d2-41bdef6d5295.png)
+<br><br>
+![image](https://user-images.githubusercontent.com/62074841/130010989-ce18b72d-ac74-4980-8e74-12b63d110e3f.png)
+<br><br>
+![image](https://user-images.githubusercontent.com/62074841/130011037-e3465f4a-7405-4c44-8de9-4a6a10bd4bc6.png)
 
 
 # Getting Started with Create React App
