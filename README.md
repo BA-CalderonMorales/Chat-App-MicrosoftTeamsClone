@@ -1,6 +1,29 @@
 # Contractor-Ecommerce-Frontend
 My attempt at creating an elegant web app for a small business construction company that incorporates many frontend technologies, such as: Google Maps API, Chat Engine API, Notion API, React.js, and Axios.
 
+The tutorial I followed in order to create the chat app portion of my capstone project was created by the channel: JavaScript Mastery.
+Here is the video in case you want to create a chat app (without all the modifications that I made to it). It details, step by step, what is necessary to create a chat app 
+using the Chat Engine api. It was really fun completing the chat app, and I highly recommend checking it out for yourself!
+
+# Chat Application using React JS - Build and Deploy a Chat App in 1 Hour (Microsoft Teams)
+https://www.youtube.com/watch?v=jcOKU9f86XE
+
+# Deployed Site
+I managed to deploy my site using Netlify, so I'm going to be working on there, along with localhost:3000 in order to try and get my site as functional as I possibly can.
+https://brandino-sites.netlify.app/
+
+In order to login to the site, you'll need to enter the following credentials to login as a visitor:
+username: userOne
+password: 123123
+
+or 
+
+username: userTwo
+password: 123123
+
+I'm going to hold off on allowing capability to login as a master since the site is already deployed. So if you want to see what all a master account can do, you'll need to 
+look at the tutorial and try to get those features down yourself. Here's to life-long learning!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
