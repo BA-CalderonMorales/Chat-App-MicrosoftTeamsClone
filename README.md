@@ -1,5 +1,4 @@
-# Contractor-Ecommerce-Frontend
-My attempt at creating an elegant web app for a small business construction company that incorporates many frontend technologies, such as: Google Maps API, Chat Engine API, Notion API, React.js, and Axios.
+# Chatt-App-MicrosoftTeamsClone
 
 The tutorial I followed in order to create the chat app portion of my capstone project was created by the channel: JavaScript Mastery.
 Here is the video in case you want to create a chat app (without all the modifications that I made to it). It details, step by step, what is necessary to create a chat app 
